@@ -1,0 +1,43 @@
+{
+    "embed": {
+      "title": "HELP",
+      "description": "prefix : ```!G```",
+      "color": 7564251,
+      "thumbnail": {
+        "url": "https://cdn.discordapp.com/icons/763447797143044126/3d302e3f66a94d02b1e14d822bb16dfd.png?size=128"
+      },
+      "image": {
+        "url": "https://th.bing.com/th/id/OIP.uw3MABmuduKXuyseK_nGlQHaHa?pid=Api&rs=1"
+      },
+      "author": {
+        "name": "Gamotronic_world",
+        "url": "https://discordapp.com",
+        "icon_url": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "fields": [
+                        {
+          "name": "!G help",
+          "value": "this page in french "
+        },
+        {
+          "name": "wech bot",
+          "value": "responds to your message with a random reaction"
+        },
+        {
+          "name": "!G registre [event name]",
+          "value": "register you for an event and instead of [event Name] you can put [test] to see if the register works well"
+        },
+  
+        {
+          "name": "!G INVITE",
+          "value": "Official server guest link",
+          "inline": true
+        },
+        {
+          "name": "!G YT",
+          "value": "The creator's YouTube channel",
+          "inline": true
+        }
+      ]
+    }
+}

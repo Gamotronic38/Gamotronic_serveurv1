@@ -1,0 +1,18 @@
+{
+    "embed": {
+      "title": "Ma chaine youtube",
+      "description": "[LE LIEN](https://www.youtube.com/channel/UC15PGaSHgHzKvBTGSg368dg)",
+      "color": 7564251,
+      "thumbnail": {
+        "url": "https://cdn.discordapp.com/icons/763447797143044126/3d302e3f66a94d02b1e14d822bb16dfd.png?size=128"
+      },
+      "image": {
+        "url": "https://i.ytimg.com/vi/Sl12Ru0p5Yw/maxresdefault.jpg"
+      },
+      "author": {
+        "name": "Gamotronic_world",
+        "url": "https://discordapp.com",
+        "icon_url": "https://cdn.discordapp.com/embed/avatars/0.png"
+    }
+ }
+}
