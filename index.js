@@ -1,7 +1,7 @@
 const Discord = require('discord.js')
 const bot = new Discord.Client()
 const conf = require("./conf.json")
-const help = require("./")
+const help = require("./!G help.json")
 const help_en = require("./!G help en.json")
 const YT = require("./!G YT.json")
 const INVITE = require("./!G invite.json")
