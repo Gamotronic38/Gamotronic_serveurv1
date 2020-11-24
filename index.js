@@ -20,7 +20,7 @@ bot.on('message', message => {
 
     if (message.content ===  (conf.prefix)+' help'){
         message.channel.send(help);
-       }
+
     }
     if (message.content === (conf.prefix)+' help en'){
       message.channel.send(help_en);
