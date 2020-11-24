@@ -33,6 +33,9 @@ bot.on('message', message => {
     if (message.content === 'wech bot'){
       message.channel.send(wech)
     }
+    if (message.content === 'test'){
+        message.channel.send('1,2');
+    }
 
 
 
