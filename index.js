@@ -26,6 +26,7 @@ bot.on('message', message => {
       message.channel.send(help_en);
     }
     if (message.content === (conf.prefix+' YT')){
+      message.channel.send("https://www.youtube.com/channel/UC15PGaSHgHzKvBTGSg368dg");
       message.channel.send(YT);
     }
     if (message.content === (conf.prefix+' INVITE')){
