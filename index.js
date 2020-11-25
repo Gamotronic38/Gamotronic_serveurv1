@@ -38,6 +38,10 @@ bot.on('message', message => {
     if (message.content === 'test'){
         message.channel.send('1,2');
     }
+    if (message.content === (conf.prefix+' chef')){
+        message.channel.send('https://cdn.discordapp.com/avatars/689037504183009339/9a135a5ddcef87ee7d9e9df9aa6a8024.png?size=512');
+        message.channl.send('le boss est <@689037504183009339>');
+    }
 
 
 
